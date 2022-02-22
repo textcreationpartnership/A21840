@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. A proclamation for waightes published by the Queenes Maiesties commaundement</title>
+            <title>Proclamations. 1587-12-16</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1587</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21840</idno>
+            <idno type="STC">STC 8167</idno>
+            <idno type="STC">ESTC S115387</idno>
+            <idno type="EEBO-CITATION">99850606</idno>
+            <idno type="PROQUEST">99850606</idno>
+            <idno type="VID">15818</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21840)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15818)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. A proclamation for waightes published by the Queenes Maiesties commaundement</title>
+                  <title>Proclamations. 1587-12-16</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>3 leaves   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>[1587]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon; publication date from STC.</note>
+                  <note>Sheets 1 and 2 are in 2 settings; sheet 3 is in 3 impositions. In this copy: sheet 1, line 1 of text ends "and"; sheet 2, line 1 has "waightes"; sheet 3, 4th line below crown has "LVI. pound A." and the "P" of "Printer" in the imprint is below the "L" of "London".</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Weights and measures --  England --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:15818:1" rendition="simple:additions"/>
+            <head>
+               <g ref="char:leaf">❧</g> 
+               <hi>By the Queene.</hi> 
+               <g ref="char:leaf">❧</g> A Proclamation for Waightes publiſhed by the Queenes Maieſties commaundement.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as (by Gods Lawes and mans lawes) there hath beene and ought to be in all places, true, iuſt, and certaine Waightes and Meaſures, and the ſame alſo (by the lawes of this Realme) to be eſtabliſhed, publiſhed, and made knowen to all people, that euery one may take the benefit and vſe there<g ref="char:EOLhyphen"/>of: Our Soueraigne Lady the Queene being informed, that the greateſt part of her louing Subiectes of this Realme of England, and Wales, be igno<g ref="char:EOLhyphen"/>rant of contentes, differences, and true knowledge and vſes of the Waightes of the ſame Realme, and that the Waightes commonly vſed within the Realme be vncertaine, and varying one from an other, to the great ſlaunder of the ſame, and the deceiuing of many doth Buyers and Sellers: doth by the aduiſe aſwell of her priuy Councell, as of her Counſell learned in the L<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wes, &amp; other men of perfect ſkill and vnderſtanding in Waights, giue all her louing Subiects hereby to vnderſtand, that by the Statutes and Ordinances of the Realme, there hath bene, is, and ought to be lawfully in vſe with<g ref="char:EOLhyphen"/>in the ſame, one Waight, commonly called the Troy Waight, according to the auncient Lawes, Treatize, and Ordinance, for compoſing of Waights, and Meaſures, and is &amp; ought to be vſed onely for the weying of Golde, ſiluer, Bread and Electuaries, and ought to be in all parts of the Realme of one and the ſame content. And that there is and ought to be one other Waight likewiſe in vſe, commonly called the <hi>Auoir depoiz</hi> Waight, and is to be vſed for the weying of Spices, and all other things vendible by Waights, and ought alſo to be of one and the ſame content in all parts of the Realme: which Waights aſwell of Troy, as of <hi>Auoir depoiz,</hi> alwayes ought to be according to certaine Standerds of Waights thereof made and remaining in the Exchequer at Weſtminſter, heretofore commonly called the Kings ſtanderd of Waights of his Eſche<g ref="char:EOLhyphen"/>quer. And further, that vpon information giuen diuers yeres paſt to the Lord Treaſourer, vnder Treaſourer, and Barons of her Maieſties ſayd Exchequer, of the ſaid vncertainty and variance of Waights, and by intermiſſion of long time, no iuſt and perfect ſtanderds being then extant and remaining in the ſayd Exchequer, to ſize &amp; reforme all other Waights of the Realme, but ſuch as were there ſound extant did vary one from an other: They cauſed two ſeuerall Iuries of Aldermen, and other ſubſtantiall Merchants and Goldſmiths of the City of London, to come before them in the ſayd Court of Exchequer, and charged them vpon their othes, amongſt other things, to examine and try the ſayd ſtanderdes, and certayne other Waights deliuered vnto them from ſundry Cities and other places of the Realme, and by thoſe Waights, and by other meanes, to cauſe one certaine, iuſt, and true ſtanderd of all ſortes of Waights within the Realme to be made and ſized, and to preſent the ſame to the ſayd Lord Treaſourer, vnder Treaſourer, and Barons in the ſayd Court, there to remayne &amp; be kept, as the Queenes iuſt and true ſtanderd of the ſayd Exchequer of Waights, to examine, try, &amp; ſize all other Waights of the Realme by from time to time as occaſion ſhould require, which Iuries preſented to the ſayd Lord Treaſourer, vnder Treaſourer, and Barons, ſeuerall Braſſe Piles of the Troy Waight, and certayne Bell Waights, and round flat Waights of the <hi>Auoir depoiz</hi> Waights to be ſtanderds of the ſayd ſeuerall Waightes, and alſo ſeuerall Bores conteining in them ſmall Poizes and Waights of the ſayd Troye Waight: and that there<g ref="char:EOLhyphen"/>vpon her Maieſtie after long deliberation, hath by the aduiſe of her priuie Counſell, ordeined and eſtabliſhed ſuch of the ſaid Piles &amp; Waightes as be hereunder mentioned, to be her iuſt and true ſtanderdes of Waightes of her Exchequer, for the ſizing, examining and trying of all other Waights by, for that the ſame be found to be agreeing with the iuſt &amp; true Waightes that haue had long continuance and vſe in this Realme, and with the ſtanderds vſed both for moneys of Plate, of Siluer and Golde, and other things ſold by Waight.</p>
+            <p>And further, her Maieſtie hath giuen order and commaundement by her warrant ſigned with her hand and vnder her priuy Seale, to the Lord Treaſourer, vnder Treaſorer &amp; Ba<g ref="char:EOLhyphen"/>rons of the Exchequer, forthwith to cauſe to be made, ſized, and approoued by the ſayd ſtanderds now brought into the Exchequer, &amp; there eſtabliſhed for the true ſtanderds of weights, ſo many other like ſtanderds of braſſe as ſhall ſuſtice for her Maieſties Mint, &amp; for her Clerke of the Market, and for euery Citie and Shire towne within the Dominion of Wales, and alſo for euery City, Borough<g ref="char:punc">▪</g> Towne and place limitted by the Statute made in the xi. yere of the raigne of the late King of famous memory King Henry the vii. to haue and keepe ſtan<g ref="char:EOLhyphen"/>derds of Waigtes, according to the meaning of that Statute, and for ſuch other as ſhall make ſuite for the hauing of any of the ſayd Waightes, and alſo to cauſe euery of the ſayd Stan<g ref="char:EOLhyphen"/>derds of Troy Waightes of one halle quarter of a pounde or more, to be printed and marked with
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> crowned, and a Homaine I with R<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>us R<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>con<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned, and euery of the ſayde
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> quarter of a pointed and man, to be printed and martied with <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>crowned and a
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>omane A for a difference to diſerne and know both
+<pb facs="tcp:15818:2" rendition="simple:additions"/>kindes of Waightes, and all of them with letters and Stampes denoting the true contents. Her Maieſties will and pleaſure is therefore, that the Maiors, Bailiffes, and other head Of<g ref="char:EOLhyphen"/>ficers of euery of the ſaid Cities, Boroughes, Townes and places, before the feaſt of S. Iohn Baptiſt next comming, at the common charge of the ſame place, ſhal ſend ſome ſufficient per<g ref="char:EOLhyphen"/>ſon to the ſaide Exchequer, authoriſed to receiue ſuch Standerds as ſhalbe deliuered vnto him by the order of the ſaid Court, for the ſaid Citie, Borough, Towne, or place, and to pay ſuch reaſonable price for the ſame, as vpon true valuation of the ſame by the ſaid Court ſhalbe rated: which Standerds euery of the ſaid Maiors, Bailiffes, or other head Officers to whome it ſhall appertaine, ſhall ſafely keepe or cauſe to be kept in the ſame, in ſome ſure and conuenient place of the ſame Citie, Borough, or Towne, and by them ſhall make or ſize, and cauſe to be made and ſized other common Waights for the vſe of all maner of people in the ſame Citie, Towne or place, that ſhall haue cauſe to vſe thoſe Waightes. And ſhall alſo ſigne and print with like let<g ref="char:EOLhyphen"/>ters like waightes of Braſſe, Copper, Leade, Tinne, or other competent ſtuffe, vnto euery of the Queenes Subiectes duely requiring the ſame, taking ſuch fees for the doing thereof, as by the Statute made in the vii. yeere of the ſaide late King Henry the vii. is allowed, and no more, viz. of euery hundred waight one penie, of euery halfe hundred waight, one halfe penie, and of euery waight vnder, one farthing, and not aboue. And euery of the ſaid Maiors, Bailiffes, and other head Officers ſhall further doe and cauſe to be done all ſuch other Act and acts, thing and things for the prouiding, hauing, and vſing of the ſaide Standerds and waightes agreeing with the ſame, and alſo true Balances and Scales both common and other, as bee li<g ref="char:EOLhyphen"/>mitted and appointed to their or any of their authoritie, by the ſaid Statute made in the xi. yeere of the late King Henry the vii. or any other Statute or ordinance whatſoeuer, ſo as all the waights throughout the Realme may be reformed and made according to the ſaide Standerd of the Exchequer, as by the Statute in ſuch caſe prouided is required.</p>
+            <p>And her Maieſtie further commaundeth and ordeineth, that no perſon or perſons ſhall from the feaſt of Michaelmas next comming, vſe in ſelling, buying, or weighing of any thing, any o<g ref="char:EOLhyphen"/>ther waight or waights, but ſuch as ſhalbe made or ſized, and reſpectiuely agreeing to and with the ſaid Standerds, and printed and marked with ſuch markes and letters, as is before limi<g ref="char:EOLhyphen"/>ted, neither ſhal vſe any Troy waight ſo made, ſized, marked and printed, but onely for waighing of Bread, Gold, Siluer, and Electuaries, and for no other thing: nor the ſaid
+<hi>Auoir depoiz</hi> Waight for the waighing of any Gold, Siluer, Bread, or Electuaries, but of Spices, Woolles, Leade, and all other things vendible by Waightes, vpon paine to be apprehended and com<g ref="char:EOLhyphen"/>mitted to priſon, fined and puniſhed, as contriuers and vſers of falſe Waights, according to the Statute made in the ix. pere of Hen. v. and other Statutes in that caſe made and prouided.</p>
+            <p>And that this Proclamation, for the better inſtructing of her Maieſties Subiects, ſhal before the twelfth day of Ianuary nowe next comming, be proclaimed in euery Market Towne through the Realme, and bee hanged vp and faſtened in a Table in the Market place by an Officer, where it may hang drie, to continue, and be ſeene and read by any that will. And fur<g ref="char:EOLhyphen"/>ther, that it ſhalbe read in euery Church, before the feaſt of the Purification of our Lady next, in a time and ſpace betweene the beginning and end of Common prayer, vpon ſome Sunday or Holy day, by the Miniſter or Clarke of the Church, and ſo from thenceforth, once at euery feaſt of the Annunciation of our Lady, and once at euery feaſt of S. Michael Tharchangel, by the ſpace of foure yeeres next comming, and be alſo hanged vp and faſtened, and preſerued in euery Church in a Table, to be ſeene and read at all times by any that will. And that the de<g ref="char:EOLhyphen"/>faults of Officers, and Miniſters, Clerks, &amp; Church wardens in this behalfe, ſhalbe enquired of and puniſhed by the Iuſtices of Aſſiſe, and Iuſtices of peace in their Seſſions, according to their diſcretions, as comtempts of her Maieſties commandement. And that al the Standerds and Waights whatſoeuer, not ſized, marked &amp; printed, and made reſpectiuely agreeing to and with the ſayd new Standerds, and the meaning of this Proclamation, ſhal from the ſaid feaſt of Michaelmas next comming, be reputed and taken for vntrue Waights, and ſhall within foure weekes after the ſayd feaſt, be broken, defaced, and deſtroyed by the owners of the ſame, or by the Officers hauing authoritie to enquire of falſe Waights. And for the execution there<g ref="char:EOLhyphen"/>of, all Maiors, Baylifes, and other head Officers of euery Citie, Shire Towne, Borough, or Market Towne, ſhall immediatly after the ſaid feaſt of Michaelmas, and ſo from time to time according to the Statute of xi. Hen. vii. cauſe to be brought before them all the Waights within the ſame Citie, Borough, or Towne, to be duely viewed and examined, and ſuch as they ſhall finde defectiue, to cauſe to be broken, and further puniſhment to be done, according to that Statute. And that the Iuſtices of peace, or two of them, whereof one to be of the <hi>Quorum,</hi> ſhal with al diligence, and from time to time, by examination or enquirie, heart and determine the defaults of all Maiors, Bailifes, and other head Officers within their limits or authorities in that behalfe, and alſo of all buyers and ſellers doing contrarie to the ſame Act and to ſet Fines and amerciaments vpon the offenders, by their diſcretions, and thoſe to eſtreate into the ſayd Court of E<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chequer, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that vpon paine of the puniſhment due for ſuch a contempt. Laſtly, her Maieſtie ſtraightly
+<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>geth and commaundeth all Iuſtices of Aſſiſe, Iuſtices of <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>s, Bailifes, Stewards of Liberties, Clarke of the Market, and all other Officers &amp; Miniſters whatſoeuer, to cauſe this preſent Proclamation, and all Lawes, Statutes and <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of true
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of fa<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, to be put in but execution, according to <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, as they tender
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+            </p>
+            <div type="table_of_weights">
+               <pb facs="tcp:15818:3" rendition="simple:additions"/>
+               <head>A Pile of Troy Waightes, conteining xiiii. peeces of the ſeuerall poizes following, viz.</head>
+               <list>
+                  <head>The Standerd for Troy Waight in the Queenes Ex<g ref="char:EOLhyphen"/>chequer.</head>
+                  <item>The Caſe or Capitall Waight being CClvi. ounces. Cxxviii. ounces. lxiiii. ounces. xxxii. ounces. xvi. ounces. viii. ounces. iiii. ounces. ii. ounces. i. ounce. di. ounce. <expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>. ounce. di. <expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>. ounce. ii. peeces farthing golde Waight. Poiz altogether v. C. xii. ounces, which is xlii. ii. viii. ounces, euery pounde conteining xii. ounces Troy.</item>
+                  <item>One Iuerie boxe conteining one ounce, which is xx. penny waight, one halfe ounce, which is x. penny waight, one quarter ounce, which is v. penny waight, one fift part of an ounce which is foure penny waight, iii. penny waight, ii. penny waight, i. penny waight, which is xxiiii. Graines, i. halfe penny waight, which is xii. Graines, i. fourth part of a penny waight, which is vi. Graines, iiii. Graines, iii. Graines, ii. Graines, i. Graine, being in all xiii. peeces.</item>
+               </list>
+            </div>
+            <div type="table_of_weights">
+               <head>A Sute of Bell Waights of Auoir de poiz, conteining vii. peeces of the ſeuerall Poizes following, viz.</head>
+               <list>
+                  <head>The Standerd for Auoir de poiz in the Queenes Ex<g ref="char:EOLhyphen"/>chequer.</head>
+                  <item>One halfe hundred waight being lvi. li. one quarter of a C. waight being xxviii. li. one halfe quarter of a C. waight being xiiii. li. vii. li. iiii. li. ii. li. i. li. Poiz al<g ref="char:EOLhyphen"/>together fiue ſcore xii. li. which is the hundred waight of <hi>Auoir de poiz</hi> nowe in vſe, euery pound conteining xvi. ounces <hi>Auoir de poiz.</hi>
+                  </item>
+                  <item>One round flatte Pile of ſmall waights of <hi>Auoir de poiz,</hi> wherein the pound waight is deuided into xvi. ounces, viz. viii. li. iiii. li. ii. li. i. li. di. li. <expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>. li. di. <expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>. li. which is ii. ounces i. ounce di. ounce <expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>. ounce di. <expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>. ounce, ii. xvi. partes of an ounce. Poiz altoghether xvi. li. <hi>Auoir de poiz,</hi> and be in nomber xiii. peeces.</item>
+               </list>
+               <p>
+                  <figure>
+                     <head>E L.
+<date>A<hi rend="sup">o</hi> D<hi rend="sup">o</hi> 1588</date>
+                        <date>A<hi rend="sup">o</hi> Reg XXX<hi rend="sup">o</hi>
+                        </date>
+                     </head>
+                     <p>
+                        <list>
+                           <head>Halfe Hun<g ref="char:EOLhyphen"/>dred.</head>
+                           <item>LXIIII. onz. R</item>
+                           <item>LVI. pound A.</item>
+                        </list> 
+                     </p>
+                  </figure>
+               </p>
+            </div>
+            <closer>God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>Imprinted at London by the Deputies of</hi> Chriſtopher Barker. Printer to the Queenes moſt excellent Maieſtie.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
